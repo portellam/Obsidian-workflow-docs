@@ -1,32 +1,28 @@
-# obsidian-workflow-template-docs
-
-This is the documentation for my [obsidian-workflow-template](https://github.com/mathisgauthey/obsidian-workflow-template) project.
+# obsidian-workflow-docs
+Documentation repository for [Obsidian-workflow](https://github.com/portellam/Obsidian-workflow).
 
 ## Technology used
-
-I'm using [MkDocs](https://www.mkdocs.org/) with the [Material theme](https://squidfunk.github.io/mkdocs-material/).
-
-It has a wonderful documentation and is very customizable.
+- [MkDocs](https://www.mkdocs.org/) with the [Material theme](https://squidfunk.github.io/mkdocs-material/).
+  - It has a wonderful documentation and is very customizable.
 
 ## Requirements
-
+- Run the following in a *Bash* terminal:
 ```bash
 pip install mkdocs
 pip install mkdocs-material
 ```
-
-Don't forget the `sudo` before on linux, otherwise you might run into possible errors related to `command not found`.
+  - **If running on Linux,** you may need to prefix with the command `sudo`.
 
 ## Usage
+*MkDocs* includes a live preview server, so you may preview changes as documentation is written.
+The server will automatically rebuild the site upon saving.
 
-MkDocs includes a live preview server, so you can preview your changes as you write your documentation. The server will automatically rebuild the site upon saving. Start it with:
-
+To start the server, run:
 ```bash
 mkdocs serve
 ```
 
-When you're finished editing, you can build a static site from your Markdown files with:
-
+When editing is complete, a static site may be built from Markdown files. To do so, run:
 ```bash
 mkdocs build
 ```
