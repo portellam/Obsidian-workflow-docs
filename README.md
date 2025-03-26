@@ -7,11 +7,11 @@ Documentation repository for [Obsidian-workflow](https://github.com/portellam/Ob
 
 ## Requirements
 - Run the following in a *Bash* terminal:
+  - **If running on Linux,** you may need to prefix with the command `sudo`.
 ```bash
 pip install mkdocs
 pip install mkdocs-material
 ```
-  - **If running on Linux,** you may need to prefix with the command `sudo`.
 
 ## Usage
 *MkDocs* includes a live preview server, so you may preview changes as documentation is written.
