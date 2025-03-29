@@ -27,5 +27,3 @@ When editing is complete, a static site may be built from Markdown files. To do 
 ```bash
 mkdocs build
 ```
-
-test123
