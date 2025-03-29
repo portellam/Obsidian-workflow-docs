@@ -1,4 +1,4 @@
-# obsidian-workflow-docs
+# Obsidian-workflow-docs
 Documentation repository for [Obsidian-workflow](https://github.com/portellam/Obsidian-workflow).
 
 ## Technology used
