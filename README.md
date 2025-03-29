@@ -1,5 +1,5 @@
 # Obsidian-workflow-docs
-Documentation repository for [Obsidian-workflow](https://github.com/portellam/Obsidian-workflow).
+Documentation repository for Obsidian-workflow<sup>[Codeberg](https://codeberg.org/portellam/Obsidian-workflow)|[GitHub](https://github.com/portellam/Obsidian-workflow)</sup>.
 
 ## Technology used
 - [MkDocs](https://www.mkdocs.org/) with the [Material theme](https://squidfunk.github.io/mkdocs-material/).
