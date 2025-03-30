@@ -65,7 +65,7 @@ When editing is complete, a static site may be built from Markdown files. To do 
 mkdocs build
 ```
 ### 5. Contact
-Wish to recommend a project? Do you need help? Please visit the [Issues][11] page.
+Do you need help? Please visit the [Issues][11] page.
 
 [51]: https://github.com/portellam/Obsidian-workflow-docs/issues
 ##
