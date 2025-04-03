@@ -15,7 +15,7 @@
     ├── 03 - Resources -> Zettelkasten note-taking location with a flat structure
     ├── 04 - Archives -> Archives for old projects or notes no longer relevant
     ├── 10 - Daily Notes -> Daily notes (YYYY-MM-DD)
-    ├── 10 - Periodic-Notes -> Periodics notes (Weekly, Monthly, Quarterly and Yearly)
+    ├── 10 - Periodic Notes -> Periodics notes (Weekly, Monthly, Quarterly and Yearly)
     ├── canvas -> Obsidian canvas files
     ├── media -> Attachments location (images, pdf, etc)
     ├── scripts -> Scripts locations like taskCalendar and QuickAdd

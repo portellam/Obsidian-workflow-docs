@@ -101,8 +101,7 @@ A task can have:
 Tags should come after the `task.description` and before the `task.properties`:
 
 ```md
-- [ ] TASK_NAME #tag1 #tag2 #tag3 PRIORITY_ICON 🔁 RECCURENCE_RULE ➕
-CREATION_DATE OTHER DATES...
+- [ ] TASK_NAME #tag1 #tag2 #tag3 PRIORITY_ICON 🔁 RECCURENCE_RULE ➕ CREATION_DATE OTHER DATES...
 ```
 
 GTD tags with associated queries in daily and periodic notes are:

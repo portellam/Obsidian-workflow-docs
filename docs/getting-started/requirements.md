@@ -16,10 +16,10 @@ automated markdown conversion for offline use.
 - [Super Productivity][5] if you want to separate
 your organisation (Obsidian) from your daily execution (Super Productivity).
 
-- [Google][6] account if you want to add some Google
-Calendar integration to your periodic notes. *Note: This will not be explained in*
-*the docs as this was used in [0.0.1 version][7] of the template only. But you*
-*may do it yourself using [obsidian-google-calendar plugin][8] or *
+- [Google][6] account if you want to add some Google Calendar integration to your
+periodic notes. ***Note:*** *This will not be explained in the docs as this was*
+*used in [0.0.1 version][7] of the template only. But you may do it yourself*
+*using [obsidian-google-calendar plugin][8] or*
 *[obsidian-custom-frames plugin][9].*
 
 [1]: https://obsidian.md/download
