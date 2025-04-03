@@ -16,7 +16,7 @@ your vault (`One-off tasks`, `projects`, `project tasks`, `passions items`,
 do it at the right time in the future or at least remember them.
 
 3. Engage with your tasks and projects by using your daily note to direct your
-actions. I personally pick my tasks from the `Today ☀️` section of my daily note,
+actions. I personally pick the original author's tasks from the `Today ☀️` section of the original author's daily note,
 and I copy them to `Super Productivity`. I then add an estimated time to each task
 and start working on them.
 
@@ -56,8 +56,7 @@ markdown tasks. A tag `#focus` or `#goals` is required.
 a `1-5` notation for the day, from really bad (1) to a productive day (5).
 
 ## The Periodic Notes
-
-You get almost the same sections as the daily notes, but you also have :
+You get almost the same sections as the daily notes, but you also have:
 
 - A [modified Tasks-Calendar][04] in the Dashboard 🗺️ in the weekly and monthly
 notes.

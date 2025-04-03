@@ -1,18 +1,20 @@
 # Read-it-later and bookmark manager
 
-## Why doing this ?
+## Why do this?
+Every link you saved using Omnivore will be saved and synced as a markdown file in
+your vault.
 
-Every link you saved using Omnivore will be saved and synced as a markdown file in your vault.
+It allows for easy search inside your knowledge base across your sources and
+notes. You may also link these notes during your write-ups.
 
-It allows for easy search inside your knowledge base across your sources and notes. You can also link these notes during your write-ups.
+## How to use it?
+This part is pretty simple. You simply need to connect your Omnivore account, add
+some pages to your inbox. It will then be synced to Obsidian inside the `sources`
+folder each time you use the Omnivore button on Obsidian left side bar or every
+five (5) minutes.
 
-## How to use it ?
-
-This part is pretty simple. You simply need to connect your Omnivore account, add some pages to your inbox. It will then be synced to Obsidian inside the `_Sources` folder each time you use the Omnivore button on Obsidian left side bar or every 5 min.
-
-## How is it configured ?
-
-Front matter template :
+## How is it configured?
+Front matter template:
 
 ```txt
 id: {{{id}}}
@@ -34,7 +36,7 @@ date_read: {{{dateRead}}}
 date_archived: {{#formatDate}}{{{dateArchived}}},"yyyy-MM-dd HH:mm:ss"{{/formatDate}}
 ```
 
-Article template :
+Article template:
 
 ```txt
 # {{{title}}}

@@ -67,7 +67,7 @@ author's website:
 - [Why Using Obsidian for Life Management][16]
 
 [13]: https://github.com/mathisgauthey/obsidian-workflow-template/releases/tag/0.0.1
-[14]: https://mathisgauthey.github.io/my-complete-obsidian-workflow-to-manage-my-life
+[14]: https://mathisgauthey.github.io/the original author's-complete-obsidian-workflow-to-manage-the original author's-life
 [15]: https://mathisgauthey.github.io/obsidian-publish-alternative-how-to-one-click-upload-your-notes-on-your-own-website/
 [16]: https://mathisgauthey.github.io/why-using-obsidian-for-life-management/
 [^1]: Project.Areas.Resources.Archives

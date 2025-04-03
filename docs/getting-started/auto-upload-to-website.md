@@ -1,3 +1,4 @@
 # How to Auto-Upload to Website
+Instructions can be found on the original author's blog post [here][1].
 
-Instructions can be found on my blog post [here](https://mathisgauthey.github.io/obsidian-publish-alternative-how-to-one-click-upload-your-notes-on-your-own-website/).
+[1]: https://mathisgauthey.github.io/obsidian-publish-alternative-how-to-one-click-upload-your-notes-on-your-own-website/

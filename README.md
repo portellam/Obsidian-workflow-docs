@@ -1,8 +1,10 @@
 # Obsidian workflow docs
-Documentation repository for [Obsidian-workflow][01].
+Documentation repository for [Obsidian-workflow][00].
 
 ### [Download](#2-download)
 #### View this repository on [Codeberg][01] or [GitHub][02].
+
+[00]: https://github.com/portellam/obsidian-workflow
 [01]: https://codeberg.org/portellam/obsidian-workflow-docs
 [02]: https://github.com/portellam/obsidian-workflow-docs
 ##
@@ -16,8 +18,10 @@ Documentation repository for [Obsidian-workflow][01].
 
 ## 1. Requirements
 - Python
-- [MkDocs](https://www.mkdocs.org/) with the [Material theme](https://squidfunk.github.io/mkdocs-material/).
+- [MkDocs](https://www.mkdocs.org/) with the [Material theme][1].
   - It has a wonderful documentation and is very customizable.
+
+[1]: https://squidfunk.github.io/mkdocs-material/
 
 ### 2. Download
 - Download the `.zip` file:
@@ -52,15 +56,17 @@ pip install mkdocs-material
 ```
 
 ## 4. Usage
-*MkDocs* includes a live preview server, so you may preview changes as documentation is written.
-The server will automatically rebuild the site upon saving.
+*MkDocs* includes a live preview server, so you may preview changes as
+documentation is written. The server will automatically rebuild the site upon
+saving.
 
 To start the server, run:
 ```bash
 mkdocs serve
 ```
 
-When editing is complete, a static site may be built from Markdown files. To do so, run:
+When editing is complete, a static site may be built from Markdown files. To do
+so, run:
 ```bash
 mkdocs build
 ```

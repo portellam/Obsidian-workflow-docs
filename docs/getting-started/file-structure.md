@@ -9,18 +9,18 @@
     │   ├── snippets -> CSS snippets
     │   ├── themes -> Themes location
     │   └── > various config files -> Obsidian and plugins config
-    ├── _Canvas -> Obsidian canvas files
-    ├── _Media -> Attachments location (images, pdf, etc)
-    ├── _Scripts -> Scripts locations like taskCalendar and QuickAdd
-    ├── _Sources -> Links saved in markdown format thanks to Omnivore
-    ├── -Daily-Notes -> Daily notes (YYYY-MM-DD)
-    ├── -Periodic-Notes -> Periodics notes (Weekly, Monthly, Quarterly and Yearly)
-    ├── 0-Inbox -> Inbox for new notes
-    ├── 1-Projects -> Projects notes
-    ├── 2-Areas -> Areas notes that holds projects and recurring tasks
-    ├── 3-Resources -> Zettelkasten note-taking location with a flat structure
-    ├── 4-Archives -> Archives for old projects or notes no longer relevant
-    ├── 5-Templates -> Templates files location
+    ├── 00 - Inbox -> Inbox for new notes
+    ├── 01 - Projects -> Projects notes
+    ├── 02 - Areas -> Areas notes that holds projects and recurring tasks
+    ├── 03 - Resources -> Zettelkasten note-taking location with a flat structure
+    ├── 04 - Archives -> Archives for old projects or notes no longer relevant
+    ├── 10 - Daily Notes -> Daily notes (YYYY-MM-DD)
+    ├── 10 - Periodic-Notes -> Periodics notes (Weekly, Monthly, Quarterly and Yearly)
+    ├── canvas -> Obsidian canvas files
+    ├── media -> Attachments location (images, pdf, etc)
+    ├── scripts -> Scripts locations like taskCalendar and QuickAdd
+    ├── sources -> Links saved in markdown format thanks to Omnivore
+    ├── templates -> Templates files location
     ├── Journal.md -> Journal query
     ├── Passions Backlog 🎮.md -> Passions kanban board
     ├── Someday Maybe 💭.md -> Someday Maybe list of things to do

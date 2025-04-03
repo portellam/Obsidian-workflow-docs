@@ -1,11 +1,11 @@
 # Template files
 
-## How does the template file creation work ?
+## How does the template file creation work?
 My templater plugin configuration uses the `Filename-Template.md` file to choose
 what to do with a file when it is created.
 
 Basically, if it is created with a daily or periodic note title type, it will
-select the appropriate template and folder :
+select the appropriate template and folder:
 
 ```txt
 { format: "YYYY-MM-DD", template: "Daily-Notes.md" },
@@ -16,7 +16,7 @@ select the appropriate template and folder :
 ```
 
 If not, it will just use either the Area template or the default template for the
-inbox :
+inbox:
 
 ```txt
 { format: "Area", template: "Areas.md" },
