@@ -1,5 +1,5 @@
 # Obsidian workflow docs
-Documentation repository for Obsidian-workflow[[1](#1)].
+Documentation repository for Obsidian-workflow[1][01].
 
 ### [Download](#2-download)
 #### View this repository on [Codeberg][01] or [GitHub][02].
