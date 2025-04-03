@@ -4,7 +4,7 @@
 The workflow is entirely inspired from the book *Getting Things Done* from David
 Allen. 
 
-*Let's see ~Paul~ David Allen's notes...*[01]
+[*Let's see ~Paul~ David Allen's notes...*][01]
 
 1. Add items to the todoist inbox everytime you have an idea or a task to do.
 To cite David Allen, the creator of the GTD method, *"Your mind is for having*
