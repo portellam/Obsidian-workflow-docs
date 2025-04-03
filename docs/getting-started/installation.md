@@ -2,7 +2,7 @@
 
 ## How to install ?
 
-1. Go to the [release page](https://github.com/mathisgauthey/obsidian-workflow-template/releases) of the repository and download the latest release.
+1. Go to the [release page](https://github.com/portellam/obsidian-workflow-template/releases) of the repository and download the latest release.
 2. Extract the archive in your desired vault location (eg:`C:\Users\USER_NAME\Documents`).
 3. Rename the folder to your desired `VAULT_NAME`.
 4. You can safely remove the `README.md` file, the `LICENCE` file and the `.github` folder. They are useless for you.

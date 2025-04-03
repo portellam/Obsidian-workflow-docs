@@ -2,7 +2,7 @@
 Documentation repository for Obsidian-workflow[[1](#1)].
 
 ### [Download](#2-download)
-#### View this repository on [Codeberg][01], [GitHub][02].
+#### View this repository on [Codeberg][01] or [GitHub][02].
 [01]: https://codeberg.org/portellam/obsidian-workflow-docs
 [02]: https://github.com/portellam/obsidian-workflow-docs
 ##
