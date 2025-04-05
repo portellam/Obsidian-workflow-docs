@@ -11,7 +11,7 @@
 
 3. Rename the folder to your desired vault name.
 
-4. You may safely remove the `README.md` file, the `LICENCE` file and the
+4. You may safely remove the `README.md` file, the `LICENSE` file and the
 `.github` folder. These are not necessary for end users.
 
 5. Open Obsidian and select that folder as a vault.
