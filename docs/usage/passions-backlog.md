@@ -1,8 +1,7 @@
 # Passions Backlog 🎮
 
-## All Docs Index
+## Main Directory
 - [Usage](./README.md)
-
 
 ## What is the Passions Backlog 🎮?
 The passions backlog is a giant kanban board that allows you to track your

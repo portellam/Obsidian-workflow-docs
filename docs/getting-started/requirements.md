@@ -1,6 +1,6 @@
 # Requirements
 
-## All Docs Index
+## Main Directory
 - [Getting Started](./README.md)
 
 ## Required apps and accounts

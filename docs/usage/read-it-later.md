@@ -1,6 +1,6 @@
 # Read-it-later and bookmark manager
 
-## All Docs Index
+## Main Directory
 - [Usage](./README.md)
 
 ## Why do this?

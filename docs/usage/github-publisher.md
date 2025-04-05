@@ -1,6 +1,6 @@
 # GitHub Publisher
 
-## All Docs Index
+## Main Directory
 - [Usage](./README.md)
 
 ## Setup

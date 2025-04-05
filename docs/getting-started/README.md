@@ -1,12 +1,12 @@
 # Getting Started
 
-## All Docs Index
+## Main Directory
 - [README](../../README.md)
 - [Docs](../README.md)
 - [Getting Started](./README.md)
 - [Usage](../usage/README.md)
 
-## This Docs Index
+## This Directory
 - [Auto Upload to Website](./auto-upload-to-website.md)
 - [File Structure](./file-structure.md)
 - [Installation](./installation.md)

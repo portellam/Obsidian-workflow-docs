@@ -1,6 +1,6 @@
 # Journaling
 
-## All Docs Index
+## Main Directory
 - [Usage](./README.md)
 
 ## Write journal entries

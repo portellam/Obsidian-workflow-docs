@@ -1,6 +1,6 @@
 # Installation
 
-## All Docs Index
+## Main Directory
 - [Getting Started](./README.md)
 
 ## How to install?

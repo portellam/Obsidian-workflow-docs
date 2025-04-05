@@ -1,6 +1,6 @@
 # Template files
 
-## All Docs Index
+## Main Directory
 - [Usage](./README.md)
 
 ## How does the template file creation work?

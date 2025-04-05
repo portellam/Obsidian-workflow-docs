@@ -1,6 +1,6 @@
 # Tasks and projects management
 
-## All Docs Index
+## Main Directory
 - [Usage](./README.md)
 
 ## The workflow

@@ -1,12 +1,12 @@
 # Getting Started
 
-## All Docs Index
+## Main Directory
 - [README](../../README.md)
 - [Docs](../README.md)
 - [Getting Started](../getting-started/README.md)
 - [Usage](./README.md)
 
-## This Docs Index
+## This Directory
 - [GitHub Publisher](./github-publisher.md)
 - [Journaling](./journaling.md)
 - [Passions Backlog](./passions-backlog.md)

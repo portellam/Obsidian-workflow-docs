@@ -1,6 +1,6 @@
 # Welcome to the obsidian-workflow-docs
 
-## All Docs Index
+## Main Directory
 - [README](../README.md)
 - [Docs Home](./README.md)
 - [Getting Started](./getting-started/README.md)

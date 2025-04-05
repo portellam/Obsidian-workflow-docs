@@ -1,6 +1,6 @@
 # Tasks and projects creation
 
-## All Docs Index
+## Main Directory
 - [Usage](./README.md)
 
 ## Markdown tasks

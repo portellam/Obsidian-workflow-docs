@@ -1,6 +1,6 @@
 # Why should you use this template?
 
-## All Docs Index
+## Main Directory
 - [Getting Started](./README.md)
 
 ## Tasks within notes, with links to other notes
