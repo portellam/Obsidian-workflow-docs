@@ -1,5 +1,8 @@
 # Requirements
 
+## All Docs Index
+- [Getting Started](./README.md)
+
 ## Required apps and accounts
 - [Obsidian app][1].
 

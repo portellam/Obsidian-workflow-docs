@@ -1,5 +1,8 @@
 # Template files
 
+## All Docs Index
+- [Usage](./README.md)
+
 ## How does the template file creation work?
 My templater plugin configuration uses the `Filename-Template.md` file to choose
 what to do with a file when it is created.

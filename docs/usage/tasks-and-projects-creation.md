@@ -1,5 +1,8 @@
 # Tasks and projects creation
 
+## All Docs Index
+- [Usage](./README.md)
+
 ## Markdown tasks
 
 ### Create a task

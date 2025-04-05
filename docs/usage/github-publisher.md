@@ -1,4 +1,7 @@
-# Auto-upload to websites
+# GitHub Publisher
+
+## All Docs Index
+- [Usage](./README.md)
 
 ## Setup
 It is encouraged for you to follow the [installation instructions][1] first.

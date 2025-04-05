@@ -9,6 +9,12 @@ Documentation repository for [Obsidian-workflow][00].
 [02]: https://github.com/portellam/obsidian-workflow-docs
 ##
 
+## All Docs Index
+- [README](./README.md)
+- [Docs](./docs/README.md)
+- [Getting Started](./docs/getting-started/README.md)
+- [Usage](./docs/usage/README.md)
+
 ## Table of Contents
 - [1. Requirements](#1-requirements)
 - [2. Download](#2-download)

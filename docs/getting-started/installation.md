@@ -1,5 +1,8 @@
 # Installation
 
+## All Docs Index
+- [Getting Started](./README.md)
+
 ## How to install?
 1. Go to the [release page][1] of the repository and download the latest release.
 

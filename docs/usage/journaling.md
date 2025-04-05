@@ -1,5 +1,8 @@
 # Journaling
 
+## All Docs Index
+- [Usage](./README.md)
+
 ## Write journal entries
 Every daily and periodic notes has a `Journal 📓` section. You may add your
 journal entries here.

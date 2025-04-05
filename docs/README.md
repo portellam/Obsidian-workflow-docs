@@ -1,5 +1,11 @@
 # Welcome to the obsidian-workflow-docs
 
+## All Docs Index
+- [README](../README.md)
+- [Docs Home](./README.md)
+- [Getting Started](./getting-started/README.md)
+- [Usage](./usage/README.md)
+
 ## Core Features
 - 🎨 Beautiful design using
 [AnuPpuccin: Personal theme for Obsidian][01].

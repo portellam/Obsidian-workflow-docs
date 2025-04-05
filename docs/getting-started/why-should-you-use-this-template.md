@@ -1,5 +1,8 @@
 # Why should you use this template?
 
+## All Docs Index
+- [Getting Started](./README.md)
+
 ## Tasks within notes, with links to other notes
 It embraces many relevant and high level productivity concepts alongside
 [Obsidian's][1] [powerful note linking feature][2] while still being usable as a

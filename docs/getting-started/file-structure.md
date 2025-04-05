@@ -1,5 +1,8 @@
 # File structure
 
+## All Docs Index
+- [Getting Started](./README.md)
+
 ```
 .
 └── obsidian-workflow-template/

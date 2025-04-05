@@ -1,5 +1,8 @@
 # Tasks and projects management
 
+## All Docs Index
+- [Usage](./README.md)
+
 ## The workflow
 The workflow is entirely inspired from the book *Getting Things Done* from David
 Allen. 

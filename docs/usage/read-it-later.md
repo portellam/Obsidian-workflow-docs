@@ -1,5 +1,8 @@
 # Read-it-later and bookmark manager
 
+## All Docs Index
+- [Usage](./README.md)
+
 ## Why do this?
 Every link you saved using Omnivore will be saved and synced as a markdown file in
 your vault.
